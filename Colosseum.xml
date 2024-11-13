@@ -16,7 +16,15 @@
             <height type="current" unit="meter">000</height>
         </dimensions>
         <images>
-            <image size="thumb" type="jpg" url=
+            <image size="thumb" type="jpg" url=" ">thumbnail</image>
         </images>
+        <links>
+            <overview type="general" url="https://en.wikipedia.org/wiki/Colosseum">wikipedia</overview>
+        </links>
+        <notes>
+            <note type="intro">
+                Some stuff about the colosseum is written here! Very cool!
+            </note>
+        </notes>
     </site>
 </Roman_landmarks>
