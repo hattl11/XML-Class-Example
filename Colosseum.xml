@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Roman-landmarks.xsl"?>
+<Roman_landmarks>
+    <site>
+        <name language="english">Colosseum</name>
+        <location>Rome</location>
+        <country>Italy</country>
+        <description>Description goes here.</description>
+        <history>
+            <period>Here</period>
+                <year range="start" era="BC">0000</year>
+        </history>
+        <dimensions>
+            <width type="average" unit="meter">000</width>
+            <height type="original" unit="meter">000</height>
+            <height type="current" unit="meter">000</height>
+        </dimensions>
+        <images>
+            <image size="thumb" type="jpg" url=
+        </images>
+    </site>
+</Roman_landmarks>
